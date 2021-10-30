@@ -1,2 +1,2 @@
 # Suduko
-Its a automated sudoku solver using gui 
+Its a automated sudoku solver 
